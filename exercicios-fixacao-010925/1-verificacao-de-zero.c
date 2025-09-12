@@ -19,6 +19,8 @@ int main() {
     }
 
     printf("\nFinalizando o programa");
+    return 0;
 
 }
+
 
